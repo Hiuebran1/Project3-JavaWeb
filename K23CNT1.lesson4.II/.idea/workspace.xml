@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c9677d4-5ef0-4107-9313-a22105f667de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/K23CNT1.lesson4.II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K23CNT1.lesson4/src/main/java/K23CNT1/lesson4/controller/homecontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K23CNT1.lesson4/src/main/java/K23CNT1/lesson4/entity/info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K23CNT1.lesson4/src/main/resources/templates/fragments/_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K23CNT1.lesson4/src/main/resources/templates/fragments/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K23CNT1.lesson4/src/main/resources/templates/fragments/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K23CNT1.lesson4/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K23CNT1.lesson4/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K23CNT1.lesson4/src/main/resources/templates/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/.idea/K23CNT1.lesson4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/K23CNT1.lesson4/src/main/java/K23CNT1/lesson4/controller/homecontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/K23CNT1.lesson4/src/main/java/K23CNT1/lesson4/entity/info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/K23CNT1.lesson4/src/main/resources/templates/fragments/fragments/_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/K23CNT1.lesson4/src/main/resources/templates/fragments/fragments/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/K23CNT1.lesson4/src/main/resources/templates/fragments/fragments/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/K23CNT1.lesson4/src/main/resources/templates/fragments/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/K23CNT1.lesson4/src/main/resources/templates/fragments/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K23CNT1.lesson4/K23CNT1.lesson4/src/main/resources/templates/fragments/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/src/main/java/k23cnt1/DTD/day2/k23cnt1/DTD/day2/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/src/main/java/k23cnt1/DTD/day2/k23cnt1/DTD/day2/tight_loosely_coupling/BubbleSortAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/src/main/java/k23cnt1/DTD/day2/k23cnt1/DTD/day2/tight_loosely_coupling/LooselyBubbleSortAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/src/main/java/k23cnt1/DTD/day2/k23cnt1/DTD/day2/tight_loosely_coupling/LooselyCoupledService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/src/main/java/k23cnt1/DTD/day2/k23cnt1/DTD/day2/tight_loosely_coupling/SortAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/src/main/java/k23cnt1/DTD/day2/k23cnt1/DTD/day2/tight_loosely_coupling/tightCouplingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k23cnt1.DTD.day2/src/test/java/k23cnt1/DTD/day2/k23cnt1/DTD/day2/ApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="35M6c5eU77yAGKlE7cQepOYquiH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JUnit.K23CNT1.lesson4 in K23CNT1.lesson4.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="K23CNT1.lesson4.Application" />
+      <module name="K23CNT1.lesson4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="K23CNT1.lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="K23CNT1.lesson4 in K23CNT1.lesson4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="K23CNT1.lesson4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="K23CNT1.lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="K23CNT1.lesson4" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.K23CNT1.lesson4 in K23CNT1.lesson4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c9677d4-5ef0-4107-9313-a22105f667de" name="Changes" comment="" />
+      <created>1762907669197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762907669197</updated>
+    </task>
+    <servers />
+  </component>
+</project>
